@@ -18,9 +18,8 @@
     text-transform: capitalize;
     transition: .2s ,linear;
 }
-.paragraphs {
-    text-align: justify;
-}
+
+
 html{
     font-size: 62.5%;
     overflow-x: hidden;
@@ -180,6 +179,10 @@ section{
     padding: 10px 30px;
     border-radius: 50px;
 
+}
+
+.paragraphs {
+    text-align: justify;
 }
 
 .about .row .image{
