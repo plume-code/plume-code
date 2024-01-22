@@ -29,7 +29,7 @@ function openclientspage(){
     window.location.href="clients.html"
 }
 function opencontactpage(){
-    window.location.href="Contact.html"
+    window.location.href="contact.html"
 }
 
 document.addEventListener('DOMContentLoaded', function () {
