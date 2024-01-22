@@ -18,7 +18,9 @@
     text-transform: capitalize;
     transition: .2s ,linear;
 }
-
+.paragraphs {
+    text-align: justify;
+}
 html{
     font-size: 62.5%;
     overflow-x: hidden;
